@@ -8,4 +8,9 @@
     <color name="saffron">#ff9933</color>
     <color name="green">#008900</color>
     <color name="grey">#C0C0C0</color>
+    <color name="backgroundlogo">#C76344</color>
+    <color name="blue">#67B3BD</color>
+    <color name="cream">#E6E99B95</color>
+    <color name="grey3">#424242</color>
+    <color name="cream2">#EEC993</color>
 </resources>
