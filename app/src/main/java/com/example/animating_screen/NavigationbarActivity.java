@@ -1,6 +1,7 @@
 package com.example.animating_screen;
 
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.view.Menu;
 
@@ -16,7 +17,9 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-public class NavigationbarActivity extends AppCompatActivity {
+import static android.view.Gravity.*;
+
+public class NavigationbarActivity<LEFT> extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
 
